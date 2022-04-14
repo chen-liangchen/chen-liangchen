@@ -5,5 +5,6 @@
 **I'm Chenkerun**
 
 - 🔭 I’m currently working in Shenzhen
-- 🌱 I’m currently learning **Python**、**Javascript**、**Javascript**
+- 🌱 I’m currently learning **Python**、**Javascript**、**PyQt5**
+- 😄 hobby: boxing
 - My CSDN Blog.[https://blog.csdn.net/weixin_46471983?type=blog](https://blog.csdn.net/weixin_46471983?type=blog)
