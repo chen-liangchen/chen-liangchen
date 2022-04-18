@@ -1,4 +1,4 @@
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='390px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='300px'>
 
 ### Hi there 👋
 
