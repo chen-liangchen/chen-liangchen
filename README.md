@@ -1,7 +1,5 @@
 <img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'>
 
-
-
 ### Hi there 👋
 
 **I'm Chenkerun**
@@ -10,7 +8,6 @@
 - 🌱 I’m currently learning **Python**、**Javascript**、**PyQt5**
 - 😄 hobby: boxing
 - My CSDN Blog.[https://blog.csdn.net/weixin_46471983?type=blog](https://blog.csdn.net/weixin_46471983?type=blog)
---
 <br>
 
 <p>
